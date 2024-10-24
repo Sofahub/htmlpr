@@ -6,6 +6,7 @@ class F
 
 		int a=10;
 		System.out.println("Hello World again");
+		System.out.println("Hell World");
 
 	}
 }
